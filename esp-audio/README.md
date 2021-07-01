@@ -1,8 +1,8 @@
-Simple ESP32 code example 
+ESP32 Audio example 
 
-- Demo build process 
-- Configmenu system 
-- Component structure 
+- Signal generator  
+- Web server written in Go 
+- Websocket interface   
 
  
    
