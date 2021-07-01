@@ -1,8 +1,8 @@
-Simple ESP32 code example 
+ESP32 Tiny ML example 
 
-- Demo build process 
-- Configmenu system 
-- Component structure 
+- Import arduino component  
+- Build non abstracted ML pipeline  
+
 
  
    
