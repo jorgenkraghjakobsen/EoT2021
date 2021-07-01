@@ -1,8 +1,6 @@
-Simple ESP32 code example 
+ESP32 Video example 
 
-- Demo build process 
-- Configmenu system 
-- Component structure 
+- ESP32-eye or other camera enabled ESP platform 
 
  
    
